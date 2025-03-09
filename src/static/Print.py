@@ -5,4 +5,4 @@ class Print:
         self.arg1 = arg
 
     def print(self):
-        print(self.arg1)
+        print(f"Estás usando la clase Print {self.arg1}")
