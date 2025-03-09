@@ -5,7 +5,7 @@ class Print:
         self.arg1 = arg
 
     def print(self):
-        print(f"Estás usando la clase Print {self.arg1}")
+        print("{self.arg1}")
 
     def sumar(a:int , b:int):
         return a + b
